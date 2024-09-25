@@ -25,6 +25,9 @@ This is a frontend project built with React and Vite. It serves as the client-si
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **ESLint**: Linter for identifying and fixing problems in JavaScript code
 
+  <img width="826" alt="Screenshot 2024-09-26 at 1 23 06 AM" src="https://github.com/user-attachments/assets/f1d6f584-b3df-4812-8053-ae5b2031d2bc">
+
+
 # Backend Project
 
 ## Overview
