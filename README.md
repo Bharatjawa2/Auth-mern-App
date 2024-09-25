@@ -4,6 +4,9 @@
 # Frontend Project
 
 ## Overview
+<img width="624" alt="Screenshot 2024-09-26 at 3 05 35 AM" src="https://github.com/user-attachments/assets/e79b106f-2c34-4408-b593-e9785694f05e">
+<img width="701" alt="Screenshot 2024-09-26 at 3 05 00 AM" src="https://github.com/user-attachments/assets/8285b392-c8a6-4640-8b76-2ac838b2f7f3">
+
 
 This is a frontend project built with React and Vite. It serves as the client-side application for managing user interactions and rendering dynamic content. The project is styled using Tailwind CSS and includes routing and toast notifications.
 
